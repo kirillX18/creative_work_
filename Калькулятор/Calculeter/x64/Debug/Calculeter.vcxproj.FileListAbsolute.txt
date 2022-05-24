@@ -1,0 +1,4 @@
+C:\Users\Кирилл Кокшаров\source\repos\Calculeter\Calculeter\x64\Debug\Calculeter.vcxproj.AssemblyReference.cache
+C:\Users\Кирилл Кокшаров\source\repos\Calculeter\Calculeter\x64\Debug\Calculeter.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл Кокшаров\source\repos\Calculeter\Calculeter\x64\Debug\Calculeter.calculator.resources
+C:\Users\Кирилл Кокшаров\source\repos\Calculeter\Calculeter\x64\Debug\Calculeter.vcxproj.GenerateResource.cache
