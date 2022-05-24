@@ -1,0 +1,18 @@
+﻿  Comivaezor.cpp
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(395,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(457,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(255,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(254): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(305): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(263): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(56): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Comivaezor\graph.h(56): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  Comivaezor.vcxproj -> C:\Users\Кирилл\Desktop\Творческая\Comivaezor\Debug\Comivaezor.exe
