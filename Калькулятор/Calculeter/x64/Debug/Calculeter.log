@@ -1,0 +1,4 @@
+﻿  calculator.cpp
+C:\Users\Кирилл Кокшаров\source\repos\Calculeter\Calculeter\calculator.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  calculator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculeter.vcxproj -> C:\Users\Кирилл Кокшаров\source\repos\Calculeter\x64\Debug\Calculeter.exe
